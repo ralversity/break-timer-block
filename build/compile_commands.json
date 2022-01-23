@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/shiro/Documents/cppfiles/scratch/build",
+  "command": "/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXGTK__ -isystem /usr/local/lib/wx/include/gtk3-unicode-3.1 -isystem /usr/local/include/wx-3.1  -pthread -g -o CMakeFiles/test_cmake.dir/main.cpp.o -c /home/shiro/Documents/cppfiles/scratch/main.cpp",
+  "file": "/home/shiro/Documents/cppfiles/scratch/main.cpp"
+}
+]
